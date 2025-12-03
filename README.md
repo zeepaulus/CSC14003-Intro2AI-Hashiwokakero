@@ -44,7 +44,6 @@ cd CSC14003-Intro2AI-Hashiwokakero
 From the `Source` folder, install the required libraries:
 
 ```bash
-cd Source
 pip install -r requirements.txt
 ```
 
@@ -53,5 +52,6 @@ pip install -r requirements.txt
 Execute the main GUI program:
 
 ```bash
+cd Source
 python gui.py
 ```
