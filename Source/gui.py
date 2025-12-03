@@ -21,9 +21,9 @@ except Exception:
 
 SOLVERS = {
     "PySAT": PySatSolver,
-    "A*": AStarSolver,
+    "AStar": AStarSolver,
     "Backtracking": BacktrackingSolver,
-    "Brute force": BruteForceCNFSolver,
+    "BruteForce": BruteForceCNFSolver,
 }
 
 class HashiGUI:
