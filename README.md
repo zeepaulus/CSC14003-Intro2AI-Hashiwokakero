@@ -17,7 +17,7 @@ HASHIWOKAKERO/
     ├── Outputs/            # Directory storing solving results and benchmark charts.
     │   ├── Benchmark/      
     │   ├── PySAT/         
-    │   ├── A*/             
+    │   ├── AStar/             
     │   ├── Backtracking/   
     │   └── BruteForce/     
     │
